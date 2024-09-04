@@ -5,7 +5,7 @@
 
  This repository contains the analysis of a photomonitoring-derived rockfall inventory of the Poggio Baldi rock slope. The project aims to discover the spatiotemporal distribution of rockfall events to derive the failure hazard by using cumulative frequency-magnitude relations and power-law fitting.
 
-The published work can be found here: [https://doi.org/10.1016/j.enggeo.2024.107662] (https://doi.org/10.1016/j.enggeo.2024.107662)
+The published work can be found here: [https://doi.org/10.1016/j.enggeo.2024.107662](https://doi.org/10.1016/j.enggeo.2024.107662)
 
 Please cite our work in case you decide to use our codes: Giandomenico Mastrantoni, Giacomo Santicchia, Antonio Cosentino, Antonio Molinari, Gian Marco Marmoni, Paolo Mazzanti, Automatic photomonitoring analysis for spatiotemporal evaluation of rockfall failure hazard, Engineering Geology, Volume 339, 2024, 107662, ISSN 0013-7952, https://doi.org/10.1016/j.enggeo.2024.107662.
 
